@@ -10,5 +10,6 @@ public class UserDao {
         System.out.println("修道Dao");
         System.out.println("再次修改Dao");
         System.out.println("用户2修改dao");
+        System.out.println("用户2修改dao");
     }
 }
