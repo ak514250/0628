@@ -6,11 +6,12 @@ package cn.du;
 public class test04 {
     private String dasd;
 
+    public void setDasd(String dasd) {
+        this.dasd = dasd;
+    }
+
     public String getDasd() {
         return dasd;
     }
 
-    public void setDasd(String dasd) {
-        this.dasd = dasd;
-    }
 }
